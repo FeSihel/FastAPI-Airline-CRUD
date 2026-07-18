@@ -10,9 +10,13 @@ This is a project to understand how HTTP Methods and CRUD works
 </ul>
 
 How to use:
-1) Download this repository, open your ide and run:
+1) Copy the api.py code in your ide and run:
     python -m uvicorn api:app --reload
 or  py -m uvicorn api:app --reload
+
+Remember to install fastapi via pip in your terminal. 
+python -m pip install "fastapi[all]"
+or py -m pip install "fastapi[all]"
 
 After the "Application startup complete." appears, open http://127.0.0.1:8000/docs
 
