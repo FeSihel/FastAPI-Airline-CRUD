@@ -1,4 +1,4 @@
-Airline Consultation in FastAPI
+# Airline Consultation CRUD in FastAPI
 
 This is a project to understand how HTTP Methods and CRUD works
 
@@ -6,7 +6,7 @@ This is a project to understand how HTTP Methods and CRUD works
 <li>GET: Shows stored data</li>
 <li>POST: Adds data</li>
 <li>PUT: Updates data</li>
-<li>DELETE: Deletes date</li>
+<li>DELETE: Deletes data</li>
 </ul>
 
 How to use:
