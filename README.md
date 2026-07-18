@@ -43,3 +43,25 @@ PRE-STORED DATA: (The numbers indicate airline's ID)
     "year_founded": 1927,
 }
 ```
+
+Example for PUT
+Airline ID: 2
+```python
+2: {
+    "company": "LATAM",
+    "main_hub": "São Paulo",
+    "main_fleet": "Airbus A320",
+    "year_founded": 2012,
+},
+```
+
+Example for POST: 
+Airline ID: 4
+```python
+4: {
+    "company": "EL AL",
+    "main_hub": "Tel Aviv",
+    "main_fleet": "787 Dreamliner",
+    "year_founded": 1948,
+},
+```
