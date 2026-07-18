@@ -2,10 +2,12 @@ Airline Consultation in FastAPI
 
 This is a project to understand how HTTP Methods and CRUD works
 
-GET: Shows stored data
-POST: Adds data
-PUT: Updates data
-DELETE: Deletes date
+<ul>
+<li>GET: Shows stored data</li>
+<li>POST: Adds data</li>
+<li>PUT: Updates data</li>
+<li>DELETE: Deletes date</li>
+</ul>
 
 How to use:
 1) Download this repository, open your ide and run:
