@@ -23,7 +23,7 @@ After the "Application startup complete." appears, open http://127.0.0.1:8000/do
 2) Try using every method listed above to view, create, update and delete.
     You can search by it's id number or company name. Feel free to edit in the way you like! Enjoy!
 
-PRE-STORED DATA: (The numbers indicate airline's ID). Use fot GET and DELETE
+PRE-STORED DATA: (The numbers indicate airline's ID). Use for GET and DELETE
 
 ```python
 1: {
