@@ -18,24 +18,26 @@ After the "Application startup complete." appears, open http://127.0.0.1:8000/do
     You can search by it's id number or company name. Feel free to edit in the way you like! Enjoy!
 
 PRE-STORED DATA: (The numbers indicate airline's ID)
-     
-     1: {
-        "company": "GOL",
-        "main_hub": "Sao Paulo",
-        "main_fleet": "Boeing 737",
-        "year_founded": 2001, 
-    },
 
-    2: {
-        "company": "LATAM",
-        "main_hub": "Santiago",
-        "main_fleet": "Airbus A320",
-        "year_founded": 2012,
-    },
+```python
+1: {
+    "company": "GOL",
+    "main_hub": "Sao Paulo",
+    "main_fleet": "Boeing 737",
+    "year_founded": 2001, 
+},
 
-    3: {
-        "company": "Iberia",
-        "main_hub": "Madrid",
-        "main_fleet": "Airbus A350-900",
-        "year_founded": 1927,
-    }
+2: {
+    "company": "LATAM",
+    "main_hub": "Santiago",
+    "main_fleet": "Airbus A320",
+    "year_founded": 2012,
+},
+
+3: {
+    "company": "Iberia",
+    "main_hub": "Madrid",
+    "main_fleet": "Airbus A350-900",
+    "year_founded": 1927,
+}
+```
