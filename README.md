@@ -18,21 +18,27 @@ After the "Application startup complete." appears, open http://127.0.0.1:8000/do
     You can search by it's id number or company name. Feel free to edit in the way you like! Enjoy!
 
 PRE-STORED DATA: 
-1:
-    "company": "GOL",
-    "Main hub": "Sao Paulo",
-    "Main Fleet": "Boeing 737",
-    "Year founded": 2001,
+'''
+     1: {
+        "company": "GOL",
+        "main_hub": "Sao Paulo",
+        "main_fleet": "Boeing 737",
+        "year_founded": 2001,
+    },
 
-2:
-    "company": "LATAM",
-    "Main hub": "Santiago",
-    "Main Fleet": "Airbus A320",
-    "Year founded": 2012,
+    2: {
+        "company": "LATAM",
+        "main_hub": "Santiago",
+        "main_fleet": "Airbus A320",
+        "year_founded": 2012,
+    },
 
+    3: {
+        "company": "Iberia",
+        "main_hub": "Madrid",
+        "main_fleet": "Airbus A350-900",
+        "year_founded": 1927,
+    }
+}
 
-3:
-    "company": "Iberia",
-    "Main hub": "Madrid",
-     "Main Fleet": "Airbus A350-900",
-    "Year founded": 1927,
+ '''
