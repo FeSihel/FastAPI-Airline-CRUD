@@ -17,13 +17,13 @@ After the "Application startup complete." appears, open http://127.0.0.1:8000/do
 2) Try using every method listed above to view, create, update and delete.
     You can search by it's id number or company name. Feel free to edit in the way you like! Enjoy!
 
-PRE-STORED DATA: 
-'''
+PRE-STORED DATA: (The numbers indicate airline's ID)
+     
      1: {
         "company": "GOL",
         "main_hub": "Sao Paulo",
         "main_fleet": "Boeing 737",
-        "year_founded": 2001,
+        "year_founded": 2001, 
     },
 
     2: {
@@ -39,6 +39,3 @@ PRE-STORED DATA:
         "main_fleet": "Airbus A350-900",
         "year_founded": 1927,
     }
-}
-
- '''
